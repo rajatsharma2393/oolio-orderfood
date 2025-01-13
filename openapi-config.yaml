@@ -1,0 +1,4 @@
+# https://openapi-generator.tech/docs/usage#generate
+# https://openapi-generator.tech/docs/generators/go
+withGoMod: false
+disallowAdditionalPropertiesIfNotPresent: false
